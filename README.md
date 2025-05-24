@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Peerieheid!
 
-> *"Got to keep trying, nothing happens if you don't try."*
+> *"Just Because Someone Stumbles and Loses Their Way Doesn't Mean They're Lost Forever."*
 
 ---
 
