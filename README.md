@@ -23,6 +23,8 @@
 ### 🔗 Find Me (rare, but possible!)
 
 [![X/Twitter](https://img.shields.io/badge/X-@PeeriePepper-1da1f2?style=flat-square&logo=twitter)](https://x.com/PeeriePepper)
+[![X/Twitter](https://img.shields.io/badge/X-@PeeriePepper-1da1f2?style=flat-square&logo=twitter)](https://leetcode.com/u/peerie/)
+
 
 ---
 
